@@ -1,0 +1,19 @@
+# Ignore data folder
+data/
+
+# Ignore large files
+*.csv
+*.xlsx
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# IDE folders
+.vscode/
+.idea/
